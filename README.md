@@ -1,4 +1,4 @@
 IR-link
 =======
 
-A decoder for infraread link, written in assembly language.
+A decoder for infrared link, written in assembly language.
